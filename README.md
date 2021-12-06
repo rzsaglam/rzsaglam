@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzsaglam" alt="rzsaglam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rzsaglam" target="blank"><img src="https://img.shields.io/twitter/follow/rzsaglam?logo=twitter&style=for-the-badge" alt="rzsaglam" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js**
 
